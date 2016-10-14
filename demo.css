@@ -1,0 +1,48 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 10 Sep, 2016, 11:39:51 AM
+    Author     : Ronak
+*/
+
+.headerClass{
+    height: 100px;
+    border:1px solid black;
+}
+
+.linkSection{
+    float: right;
+    margin-right: 10px;
+    width: 35%;
+    padding-left:10px;
+    border:1px solid black;
+}
+
+.mainBody{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.halfBody{
+    width: 50%;   
+}
+.fifthBody{
+    width: 20%;
+}
+.leftFloat{
+    float: left;
+}
+.fullBody
+{
+    width: 100%
+}
+
+.verticalCenter{
+    position: relative;
+    top: 50%;
+   -webkit-transform: translateY(-50%);
+   -ms-transform: translateY(-50%);
+   transform: translateY(-50%);
+}
